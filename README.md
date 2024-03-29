@@ -2,23 +2,12 @@
 
 ## We're planning to use the technologies based on chat-GPT 3.5:
 ### By the way, we're literally using React.js or maybe NEXT.js and the rest is provided by GPT
-1. Frontend Development with React.js and Next.js:
-- React.js is a popular JavaScript library for building user interfaces, known for its component-based architecture and virtual DOM efficiency. Next.js, on the other hand, is a framework built on top of React.js, offering features like server-side rendering, static site generation, and routing out of the box. Leveraging React.js and Next.js together allows for fast and SEO-friendly web applications, making them ideal choices for building the frontend of the e-commerce platform.
-
-2. Backend Development with Node.js and Express.js:
-- Node.js is a runtime environment for executing JavaScript code server-side, while Express.js is a minimalist web framework for Node.js. Together, they provide a robust foundation for building RESTful APIs and handling server-side logic. With asynchronous, event-driven architecture, Node.js enables high concurrency and scalability, making it suitable for handling multiple concurrent requests in an e-commerce environment.
-
-3. Database Management with MongoDB or PostgreSQL:
-- MongoDB is a NoSQL database known for its flexibility and scalability, making it well-suited for handling unstructured or semi-structured data like product information, user profiles, and session data. Alternatively, PostgreSQL is a powerful relational database management system (RDBMS) that offers ACID compliance and strong data integrity, making it suitable for applications requiring complex transactions and relationships between entities. The choice between MongoDB and PostgreSQL depends on factors such as data structure, scalability requirements, and familiarity with SQL or NoSQL paradigms.
-
-4. Authentication and Authorization with JWT and OAuth2:
-- Implementing user authentication and authorization is crucial for securing the e-commerce platform. JSON Web Tokens (JWT) provide a stateless mechanism for securely transmitting authentication credentials between client and server. OAuth2 is a widely-used authorization framework that allows third-party applications to obtain limited access to a user's resources without exposing their credentials. Integrating JWT and OAuth2 enables secure user authentication, authorization, and access control, ensuring that sensitive user data and transactions are protected.
-
-5. Containerization with Docker and Orchestration with Kubernetes:
-- Containerization allows for packaging applications and their dependencies into lightweight, portable containers, making deployment and scaling more efficient and consistent. Docker is a leading containerization platform that simplifies the process of building, deploying, and managing containers. Kubernetes, on the other hand, is a container orchestration platform that automates deployment, scaling, and management of containerized applications. Together, Docker and Kubernetes provide a powerful infrastructure for deploying and scaling the e-commerce platform across multiple environments, including on-premises and cloud environments.
-
-6. Continuous Integration and Continuous Deployment (CI/CD) with Jenkins or GitLab CI/CD:
-- Implementing CI/CD pipelines automates the process of building, testing, and deploying code changes, ensuring faster time-to-market and improved software quality. Jenkins and GitLab CI/CD are popular CI/CD tools that support automation of various stages in the software delivery lifecycle, including code linting, unit testing, integration testing, and deployment to production or staging environments. Integrating CI/CD pipelines into the development workflow enables frequent releases, early detection of bugs, and faster feedback loops, facilitating rapid iteration and improvement of the e-commerce platform
+1. Frontend Development with React.js and Next.js
+2. Backend Development with Node.js and Express.js
+3. Database Management with MongoDB or PostgreSQL
+4. Authentication and Authorization with JWT and OAuth2
+5. Containerization with Docker and Orchestration with Kubernetes
+6. Continuous Integration and Continuous Deployment (CI/CD) with Jenkins or GitLab CI/CD
 
 ## USER FLOW
 
