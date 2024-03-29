@@ -1,5 +1,16 @@
 # E-COMMERCE WEBSITE WITH NEXT.JS
 
+
+👋 Hey everyone! Calling all fellow students and tech lovers! 👋
+
+We're a group of students working on our capstone project, and we could really use your expertise and insights!
+
+We're building an e-commerce platform and want to make sure it's as awesome as possible. Whether you're a coding guru or just have some cool ideas to share, we'd love to hear from you!
+
+🚀 Check out our project on GitHub and let us know what you think: [Link to your GitHub issue]
+
+Let's team up and make our capstone project shine! 💻🛒 #CapstoneProject #StudentLife #TechHelp
+
 ## We're planning to use the technologies based on chat-GPT 3.5:
 ### By the way, we're literally using React.js or maybe NEXT.js and the rest is provided by GPT
 1. Frontend Development with React.js and Next.js
